@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vedant Pimple</h1>
 
 <h3 align="center">“Github Streaks”</h3>
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=vedantsp&theme=tokyonight)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedantsp&show_icons=true&theme=tokyonight)
