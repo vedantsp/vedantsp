@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vedant Pimple</h1>
 
+<h2 align="center">Github Streaks</h1>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=vedantsp&theme=tokyonight)](https://git.io/streak-stats)
+<h2 align="center">Github Stats</h1>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedantsp&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantsp&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
